@@ -56,6 +56,9 @@ Este projeto consiste em um modelo de banco de dados desenvolvido para uma insti
    
 7. Use o terminal para interagir com o menu para fazer as querys e visualizar os dados.
 
+Menu Interativo através do terminal:<br>
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/874702bb-711c-4488-a6ad-7ec8b96fff27">
+
 ## Autores
 <img src="https://avatars.githubusercontent.com/u/84588132?v=4" alt="Ana Beatriz Tavares" width="150"/> | <img src="https://avatars.githubusercontent.com/u/103201200?v=4" alt="Bruno Andwele" width="150"/> |
 | ------------- | ------------- |
