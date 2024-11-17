@@ -51,8 +51,10 @@ Este projeto consiste em um modelo de banco de dados desenvolvido para uma insti
 4. Abra o arquivo `Main.java`.
 5. Insira as credenciais fornecidas via Moodle para conectar ao Cassandra.
  <img width="1001" alt="image" src="https://github.com/user-attachments/assets/2f6da379-53ce-4694-9221-0c51f5278e4f">
+ 
 6. Execute o arquivo `Main.java` para realizar a migração de dados,criar as relações no Cassandra e verificar consultas.
-7. Use o terminal para interagir com o menu para fazer as querys e visualizar os dados
+   
+7. Use o terminal para interagir com o menu para fazer as querys e visualizar os dados.
 
 ## Autores
 <img src="https://avatars.githubusercontent.com/u/84588132?v=4" alt="Ana Beatriz Tavares" width="150"/> | <img src="https://avatars.githubusercontent.com/u/103201200?v=4" alt="Bruno Andwele" width="150"/> |
